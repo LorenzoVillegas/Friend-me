@@ -13,5 +13,8 @@ html {
 
 body {
     align-items: center;
-    background: linear-gradient(320deg, rgb(89, 100, 227), #fff, rgb(234, 228, 77));
+    background: linear-gradient(320deg, rgb(89, 100, 227), #fff);
+    display: flex;
+    font-family:'Dosis', sans-serif;
+    justify-content: center;
 }
